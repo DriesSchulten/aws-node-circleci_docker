@@ -1,4 +1,4 @@
-FROM circleci/node:4
+FROM circleci/node
 
 MAINTAINER Dries Schulten
 
